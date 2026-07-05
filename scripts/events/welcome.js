@@ -48,7 +48,7 @@ odule.exports = {
 https://github.com/celestincelestinolua-cmyk/Flemme
 �
 � Créateur :
-https://www.facebook.com/mike.lumema
+https://www.facebook.com/shade.userX
 ━
 ━━━━━━━━━━━━━━━━━━━
 💬 Tape ${prefix}help pour voir mes commandes
