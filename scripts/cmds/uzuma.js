@@ -10,7 +10,7 @@ const CLEAR_ENDPOINT = "https://shizuai.vercel.app/chat/clear";
 const YT_API = "http://65.109.80.126:20409/aryan/yx";
 const EDIT_API = "https://gemini-edit-omega.vercel.app/edit";
 
-const OWNER_UID = "61573867120837";
+const OWNER_UID = "61590788725790";
 const OWNER_NAME = "Uzuma";
 
 const TMP_DIR = path.join(__dirname, 'tmp');
